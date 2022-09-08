@@ -1,0 +1,17 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+WAIT	basic-file-exploit/program-redacted.c	12;"	d	file:
+data	basic-file-exploit/program-redacted.c	/^static char data[10][100];$/;"	v	file:
+data_read	basic-file-exploit/program-redacted.c	/^static void data_read() {$/;"	f	file:
+data_write	basic-file-exploit/program-redacted.c	/^static void data_write() {$/;"	f	file:
+flag	basic-file-exploit/program-redacted.c	/^static const char* flag = "[REDACTED]";$/;"	v	file:
+input_lengths	basic-file-exploit/program-redacted.c	/^static int input_lengths[10];$/;"	v	file:
+inputs	basic-file-exploit/program-redacted.c	/^static int inputs = 0;$/;"	v	file:
+main	basic-file-exploit/program-redacted.c	/^int main(int argc, char** argv) {$/;"	f
+message	basic-mod2/basic-mod2.py	/^message = [104,290,356,313,262,337,354,229,146,297,118,373,221,359,338,321,288,79,214,277,131,190,377]$/;"	v
+mod_inv	basic-mod2/basic-mod2.py	/^    mod_inv = pow(num, -1, mod=41) $/;"	v
+tgetinput	basic-file-exploit/program-redacted.c	/^int tgetinput(char *input, unsigned int l)$/;"	f
