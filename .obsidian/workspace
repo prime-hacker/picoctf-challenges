@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "ee42f128ce0ab41b",
+    "type": "split",
+    "children": [
+      {
+        "id": "6333f14a44fb33d3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "reverse-engineering/FreshJava/FreshJava.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "aedaa2b76a303bc9",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec342cef0110811c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a459200554ce486",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e53ec926cc7e72e8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d5832f57543049b6",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "41f6981ccb24a2d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "26358f3338b1ed51",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "578287c8454d22a3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "reverse-engineering/FreshJava/FreshJava.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "48c3d79ea59e7ba1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "reverse-engineering/FreshJava/FreshJava.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "17a36c68fefee5f5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "997a070c12edefc5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "reverse-engineering/FreshJava/FreshJava.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "6333f14a44fb33d3",
+  "lastOpenFiles": [
+    "reverse-engineering/FreshJava/screenshots/ss1.png.md",
+    "reverse-engineering/FreshJava/FreshJava.md",
+    "forbiddenPaths/forbiddenPaths.md",
+    "RobotoSans/robotoSans.md",
+    "Untitled.md",
+    "basic-mod2/basic-mod2.md",
+    "FileTypes/filetypes.md",
+    "FileTypes/filetypes.pdf",
+    "FileTypes/Flag.pdf",
+    "ass1.pdf"
+  ]
+}
